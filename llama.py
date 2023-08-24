@@ -17,6 +17,7 @@ USER_ID = st.secrets.USER_ID
 APP_ID = st.secrets.APP_ID
 # Change these to whatever model and text URL you want to use
 TEXT_FILE_URL = 'https://samples.clarifai.com/negative_sentence_12.txt'
+WORKFLOW_ID = 'workflow-ad5299'
 
 
 ############################################################################
